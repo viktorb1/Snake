@@ -1,6 +1,8 @@
 # Snake Game
 
-Play the classic snake game, made in Unity! Look at the Releases section for the Windows executable, or download Unity and compile the code yourself!
+Play the classic snake game, made in Unity!
+
+Look at the Releases section for the Windows executable, or download Unity and compile the code yourself!
 
 # Screenshots
 
